@@ -1,2 +1,3 @@
 Git is fun
 Git is easy
+Google is your friend if git doesn't work
